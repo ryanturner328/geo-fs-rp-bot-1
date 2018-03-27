@@ -1,0 +1,26 @@
+{
+  "name": "my-glitch-app",
+  "version": "0.0.1",
+  "description": "Bot for the Server GEO FS RP",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "express": "^4.16.3",
+    "opusscript": "^0.0.6",
+    "ytdl-core": "^0.20.2"
+  },
+  "engines": {
+    "node": "9.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/my-glitch-app"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
